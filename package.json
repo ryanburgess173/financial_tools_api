@@ -1,0 +1,22 @@
+{
+  "name": "financial_tools_api",
+  "version": "1.0.0",
+  "description": "financial tools api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryanburgess173/financial_tools_api.git"
+  },
+  "author": "Johnathan R. Burgess",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ryanburgess173/financial_tools_api/issues"
+  },
+  "homepage": "https://github.com/ryanburgess173/financial_tools_api#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
